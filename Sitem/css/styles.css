@@ -1,0 +1,58 @@
+
+.Menu
+{
+    font-size: 35px;
+    color: red;
+    text-underline-position: above;
+}
+.tablo
+{
+width: 341,5px;
+height: 650px;
+}
+body{
+background-color: rgba(241, 215, 163, 0.815)
+
+}
+p.yazi
+{
+    font-family: cursive;
+}
+table, th, td {
+    border: 0px solid black;
+    border-collapse: collapse;
+  }
+
+.haber-resim 
+    {
+        text-align: center;
+        position: relative;
+        top: -1px;
+    }
+    
+.haber-yazı 
+    {    
+        text-align: center;
+  }
+ 
+a:link {
+    color: rgb(56, 37, 2);    
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(56, 37, 2);
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+a:active {
+    color: black;    
+}
+strong 
+{
+    position: center;
+
+    
+}
